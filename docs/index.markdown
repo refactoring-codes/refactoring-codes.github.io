@@ -44,12 +44,14 @@ Damit Projekte geligen und <mark>refactoring</mark> sicher gemacht werden kann g
 
 ## 1.2 Qualitätsziele {#qualitaetsziele}
 
+Welche Ziele verfolgen wir mit unserem Ansatz? 
+
 |Id| Ziel      | Erwartung |
 |--| ----------- | ----------- |
-|Q1| Projekt | Muss in gegeben Budget-Constraints machbar sein    |
-|Q2| Wartbarkeit      | Changes müssen vorgesehen werden, Entwicklungsmuster und Prinzipien (z.B. [Open-closed principle](https://en.wikipedia.org/wiki/Open–closed_principle))       |
-|Q3| Team      | Kann flexibel neue Mitgleider aufnehmen und verlieren       |
-|Q4| Standards      | sind einfach, klar, nachvollziehbar und veränderbar       |
+|Q1| erflogreiches Projekt | Muss in gegeben Budget-Constraints machbar sein    |
+|Q2| Wartbarkeit der Code     | Changes müssen vorgesehen werden, Entwicklungsmuster und Prinzipien (z.B. [Open-closed principle](https://en.wikipedia.org/wiki/Open–closed_principle))       |
+|Q3| Jeder is im Team Willkommen      | Kann flexibel neue Mitgleider aufnehmen und verlieren       |
+|Q4| Standards werden eingehalten     | sind einfach, klar, nachvollziehbar und veränderbar       |
 
 ## 1.3 Stakeholder {#stakeholder}
 
