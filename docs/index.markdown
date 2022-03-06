@@ -8,21 +8,21 @@ permlink: /home/
 ---
 
 # Refactoring
-Wir haben in den letzten Jahren etliche Projekte erlebt - neue Projekte, aber auch bestehende Projekte.
+
+Wir haben in den letzten Jahren etliche Softwareprojekte miterlebt - Neuentwicklungen, aber oft eher Umbau oder Migration von bestehen Codebases. 
 Wir haben in diversen Teams gearbeitet, nach mehr oder weniger agilen Ansätzen. 
-Wir haben Erfloge erlebt, genaus wo Fehler und Projekte die schlecht gelaufen sind.
+Wir haben Erfolge erlebt, genauso wie Fehler und Projekte die schlecht gelaufen sind.
 
-Das, was unsere Arbeit aber immer prägt ist <mark>refactoring</mark>. Eine Softwarelösung ist stets im Fluss
-und so stehen die Ansprüche an Wartung und Weiterentwicklung im Fokus. 
-
+Das, was unsere Arbeit aber immer prägt ist <mark>refactoring</mark>. Eine Softwarelösung ist stets im Fluss und so steht die Frage nach Wartung und Weiterentwicklung ständig an der ersten Stelle.
+ 
 # Die Herausforderung
-Leicht gesagt als getan - denn damit beschäftigt sich die Softwareindustrie seit je. Unser Fokus
-waren und sind immer die Menschen. Ob im Team, oder im Fachbereich, gehören klare und gute Kommunkation und strukturierter Aufbau vom Know How zu den wichtigsten Grundprinzipien. 
+Leichter gesagt als getan - denn damit beschäftigt sich die Softwareindustrie seit je. 
+Unser Fokus waren und sind immer die Menschen. Ob im Team, oder im Fachbereich, gehören klare und gute Kommunikation und strukturierter Aufbau vom Know How zu den wichtigsten Grundprinzipien.
 
-Dadurch kann einerseits tatsächlich ein zeitlich und budgeter eingeschränktest Projekt erflogreich abgeschlossen werden und gleichzeitig aber auch das Human Resourcen Thema abgefedert werden.
-Denn nicht jeder ist als Entwickler geboren oder am Anfang den entsprechenden Ausbildungspfad ausgewählt.
+Dadurch kann einerseits tatsächlich ein zeitlich und budgetär eingeschränktes Projekt erfolgreich abgeschlossen werden und gleichzeitig aber auch die Human Resources Problematik abgefedert werden. 
+Denn nicht jeder ist als Entwickler geboren oder am Anfang den entsprechenden Ausbildungspfad ausgewählt und so muss im Team immer Wert auf Weiterbildung gelegt werden, um solche Lücken zu schließen.
 
-Dennoch brauchen die Wirtschaft und Geschellschaft genau die Menschen, die sich ständig neuadaptieren und stellen dadurch eine fast unrealistische Erwartung.
+Menschen im Team, die sich ständig neu adaptieren und neu einlernen - eine fast unrealistische Erwartung.
 
 ---
 # Wie gehen wir damit um?
@@ -31,14 +31,14 @@ Die nächsten Abschnitte beschreiben im Detail, nach [arc42](https://arc42.org) 
 
 # 1. Einführung und Ziele {#einfuehrung-und-ziele}
  
-Unser Zeil ist, dass mit jedem <mark>refactoring</mark> die Qualität[^1] vom Code steigen soll. 
+Unser Zeil ist, dass mit jedem <mark>refactoring</mark> die Qualität[^1] vom Code steigt und das Team Stück schlauer wird. 
 
-Damit Projekte geligen und <mark>refactoring</mark> sicher gemacht werden kann glauben wir:
+Damit Projekte geligen und <mark>refactoring</mark> sicher gemacht werden kann, glauben wir:
 
 - Die Grundlangen sind entscheidend.
-- Knowhow wird sturkturiert aufgebaut, mit den besten Mitteln die zur Verfügung stehen.
+- Know-How wird auf Grundlagen sturkturiert aufgebaut, mit den besten Mitteln die zur Verfügung stehen.
 - Standards (im Code und in Workflows) werden eingehalten.
-- Alles was automatisiert werden kann wird automatisiert.
+- Alles was automatisiert werden kann, wird automatisiert.
 
 
 
@@ -48,10 +48,10 @@ Welche Ziele verfolgen wir mit unserem Ansatz?
 
 |Id| Ziel      | Erwartung |
 |--| ----------- | ----------- |
-|Q1| erflogreiches Projekt | Muss in gegeben Budget-Constraints machbar sein    |
-|Q2| Wartbarkeit der Code     | Changes müssen vorgesehen werden, Entwicklungsmuster und Prinzipien (z.B. [Open-closed principle](https://en.wikipedia.org/wiki/Open–closed_principle))       |
-|Q3| Jeder is im Team Willkommen      | Kann flexibel neue Mitgleider aufnehmen und verlieren       |
-|Q4| Standards werden eingehalten     | sind einfach, klar, nachvollziehbar und veränderbar       |
+|Q1| erflogreiches Projekt | sollte in den gegeben Constraints (Zeit, Budget) machbar sein    |
+|Q2| Wartbarkeit der Code     | Changes müssen vorgesehen werden, Entwicklungsmuster und Prinzipien (z.B. [Open-closed principle](https://en.wikipedia.org/wiki/Open–closed_principle)) sind Standar       |
+|Q3| Jeder is im Team Willkommen      | Das Team kann flexibel neue Mitgleider aufnehmen und verlieren, ohne dass das Projekt groß leidet       |
+|Q4| Standards werden eingehalten     | Regeln sind einfach, klar und nachvollziehbar kommuniziert und im Team veränderbar       |
 
 ## 1.3 Stakeholder {#stakeholder}
 
@@ -59,7 +59,7 @@ Welche Erwartungen haben diverse Stakeholder an <mark>refactoring</mark>?
 
 | Role      | Erwartung |
 | ----------- | ----------- |
-| Fachbereicht | will neue Features schnell implementiert werden (und Bugs gefixed), ohne den Satz *"das hat schon mal funktioniert"* nutzen zu müssen        |
+| Fachbereich | will neue Features schnell implementiert haben (und Bugs gefixed), ohne den Satz *"das hat schon mal funktioniert"* nutzen zu müssen        |
 | Entwickler      | will für eine kleine Anpassung wenig Zeit gebrauchen, sich nicht wiederholen und wiederkehrende Aufgaben (z.B. Testing) automatisieren   |
 | Quereinsteiger   | will verstehen, was der Unterschied  zwischen int und Integer in Java ist und welche Konsequenzen es mit sich bringt        |
 | Software Architekt   | will modulares, skalierbares und sauberes Design das von anderen Stakeholdern mitgetragen wird      |
