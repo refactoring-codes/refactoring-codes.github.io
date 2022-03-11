@@ -66,5 +66,17 @@ Welche Erwartungen haben diverse Stakeholder an <mark>refactoring</mark>?
 | Betrieb | will schnelle Reaktionszeiten durch Development        |
 
 
+# 4 Lösungstrategie
+
+Welche Ziele verfolgen wir mit unserem Ansatz? 
+
+|Id| Ziel      | Erwartung |
+|--| ----------- | ----------- |
+|Q1| erflogreiches Projekt |  |
+|Q2| Wartbarkeit des Codes     |      |
+|Q3| Jeder is im Team Willkommen      |       |
+|Q4| Standards werden eingehalten     |      |
+
+
 
 [^1]: Qualität kann natürlich beliebig definiert sein, wir verstehen darunter aber eine Qualität, die gemessen werden kann, sei es durch statische Codeanalyse, Team Velocity unsw.
