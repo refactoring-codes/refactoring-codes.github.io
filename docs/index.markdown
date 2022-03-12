@@ -70,12 +70,20 @@ Welche Erwartungen haben diverse Stakeholder an <mark>refactoring</mark>?
 
 Welche Ziele verfolgen wir mit unserem Ansatz? 
 
-|Id| Ziel      | Erwartung |
-|--| ----------- | ----------- |
-|Q1| erflogreiches Projekt |  |
-|Q2| Wartbarkeit des Codes     |      |
-|Q3| Jeder is im Team Willkommen      |       |
-|Q4| Standards werden eingehalten     |      |
+### Q1: erflogreiches Projekt
+- Ein SoftwareProjekt sollte iterativ nach Standards entwicklet werden.
+- Zeile werden expliziet definiert (s. z.B. arc42 Qualitätsziele)
+
+### Q2: Wartbarkeit des Codes
+- Standards
+-
+
+### Q3: Jeder is im Team Willkommen  
+- Code gehört zum Vorstellungsgespräch
+- Es ist ok, kein Code zu haben, dann gibt es nand2tetris
+
+### Q4: Standards werden eingehalten 
+- Clean Code
 
 
 
