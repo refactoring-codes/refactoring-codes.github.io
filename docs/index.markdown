@@ -68,24 +68,24 @@ Welche Erwartungen haben diverse Stakeholder an <mark>refactoring</mark>?
 
 # 4 Lösungsstrategie
 
-Die Qualitätsziele beschreiben Bereiche der Zusammenarbeit, auf die wir besonderen Fokus legen.
+Die Qualitätsziele beschreiben Aspekte der Zusammenarbeit, auf die wir besonderen Fokus legen.
 
 ### Q1: erfolgreiches Projekt
-- Ein SoftwareProjekt sollte iterativ nach Standards entwickelt werden. Das heißt für uns nach Scrum, mit allem was dazu gehört.
-- Zeile werden explizit definiert, nach arc42 Motto [*Handeln stat jammern*](https://www.arc42.de/downloads/Handeln-statt-Jammern.pdf), für manche sogar nach *Schaffe, Net Schwätza*
-- Es wird dokumentiert - Code über Tests (s. Clean Code), Architektur oder Prozesse nach einheitlichen Struktur 
+- Ein Softwareprojekt sollte iterativ nach Standards entwickelt werden. Das heißt für uns nach Scrum, mit allem, was dazu gehört.
+- Ziele werden explizit definiert, nach dem arc42-Motto [*Handeln stat jammern*](https://www.arc42.de/downloads/Handeln-statt-Jammern.pdf), für manche sogar nach der schwäbischen Prämisse *Schaffe, Net Schwätza*.
+- Es wird dokumentiert - Code über Tests, Architektur oder Prozesse nach einheitlichen Struktur.
 
 ### Q3: Jeder is im Team Willkommen  
 - [Code](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) gehört zum Vorstellungsgespräch.
-- Es ist ok, kein eigenes Code zu haben, oder wenig Programmierkenntnisse. Dann gehört ein Beispiel im [Jack](https://www.nand2tetris.org) dazu, das auf einem selbstgebautem [Hack Computer](https://www.nand2tetris.org/course) läuft.
+- Es ist ok, keinen eigenen Code oder geringe Programmierkenntnisse zu haben. In diesem Fall gehört ein Beispiel in [Jack](https://www.nand2tetris.org) dazu, das auf einem selbstgebautem [Hack Computer](https://www.nand2tetris.org/course) läuft.
 - Weiterbildung & Zeit zum Experimentieren sind vorgesehen.
 
 ### Q4: Standards werden eingehalten 
-- Im Team zu programmieren benötigt Regeln (was wir unter dem Begriff `Clean Code` verstehen)
-- Akzeptanzkriterien, Definitions of Done, Definitions of Ready gehören zum Alttag.
-- Statische Codeanalyse und Feedback aus diversen Metriken werden kontinuierlich integriert - es gibt keine Auslieferung ohne *Quality Gate*
+- Im Team zu programmieren benötigt Regeln (was wir unter dem Begriff `Clean Code` verstehen).
+- Akzeptanzkriterien, Definitions of Done, Definitions of Ready gehören zum Alltag.
+- Statische Codeanalyse und Feedback aus diversen Metriken werden kontinuierlich integriert - es gibt keine Auslieferung ohne *Quality Gate*.
 
-Letztlich wird dadurch das weiter Qualitätsziel erreicht, nämlich die *Wartbarkeit des Codes (Q2)* und es öffnen sich die Wegen zum kontinuierlichen <mark>refactoring</mark>.  
+Letztlich wird dadurch ein weiteres Qualitätsziel erreicht, nämlich die *Wartbarkeit des Codes (Q2)*. Im Allgemeinen öffnen sich dadurch die Wegen zum kontinuierlichen <mark>refactoring</mark>.  
 
 
 
