@@ -31,4 +31,4 @@ Für uns vielleicht der wichtigste Teil der Regeln. Jeder sollte bereit sein, se
 # [Nand2Tetris Projekt](https://www.nand2tetris.org)
 (von Noam Nisan und Shimon Schocken)
 
-
+Warum spielt es eine Rolle, ob eine Variable in Java als `int` oder `Integer` deklariert wird? Warum macht die Art und Weise wie eine Datenstruktur aufgebaut ist einen Unterschied in der Laufzeit-Performance? Wer sich solche Fragen noch nicht gestellt hat, ist mit diesem wunderbaren Projekt an der richtigen Stelle.
