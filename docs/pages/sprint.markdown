@@ -13,3 +13,5 @@ permalink: /sprint/
 # Definition of Ready
 
 # Definition of Done
+
+# Scrum Master & Product Owner
