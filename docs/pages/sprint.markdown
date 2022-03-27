@@ -4,11 +4,11 @@ title: Sprint
 permalink: /sprint/
 ---
 
+# INVEST
+
 # Akzeptanz Test
 
 # Story Points
-
-# INVEST
 
 # Definition of Ready
 
