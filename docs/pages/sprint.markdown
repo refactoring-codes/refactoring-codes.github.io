@@ -5,6 +5,12 @@ permalink: /sprint/
 ---
 
 # INVEST
+Independent
+Negotiable
+Valuable
+Estimable
+Small
+Testable!
 
 # Akzeptanz Test
 
