@@ -19,6 +19,7 @@ Es ist tatsächlich so, dass die Story Points - wenn man sie pflegt und im Sprin
 die Leistung eines Teams gut beschreiben können. 
 
 # Definition of Ready
+Wann ist ein Ticket vollständig definiert? Welche Tags und Branch sind dafür notwendig? Was sind Akzeptanztests?
 
 # Definition of Done
 
