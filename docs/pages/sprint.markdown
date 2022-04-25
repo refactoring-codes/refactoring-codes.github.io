@@ -10,7 +10,7 @@ Negotiable
 Valuable
 Estimable
 Small
-Testable!
+Testable
 
 # Akzeptanz Test
 
