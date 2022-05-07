@@ -14,6 +14,10 @@ Testable
 
 # Akzeptanz Test
 
+# Integration Test
+
+# Unit Test
+
 # Story Points
 Es ist tatsächlich so, dass die Story Points - wenn man sie pflegt und im Sprint-Poker ausdiskutiert -
 die Leistung eines Teams gut beschreiben können. 
