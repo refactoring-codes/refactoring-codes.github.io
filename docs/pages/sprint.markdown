@@ -34,7 +34,7 @@ Ohne Test geht nichts. Die 3 wichtigsten Testarten (Perspektiven) sind :
 auf der Unit wie auch auf der Integrationsebene.
 
 ### Unit Test
-- kleinste Testeinheilt, Basis für Entwicklung und eine von den wichtigsten Dokumentationsmitteln. Abdeckung von 80% sollte durchaus zu den
+- kleinste Testeinheilt, Basis für Entwicklung und ein von den wichtigsten Dokumentationsmitteln. Abdeckung von 80% sollte durchaus zu den
 Qualitätszielen gehören 
 
 ### Integration Test
