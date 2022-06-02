@@ -50,7 +50,7 @@ Dabei ist es wichtig, dass `User Stories` schätzbar sind (Estimable).
 Wann ist ein Ticket vollständig definiert? Welche Tags und Branches sind dafür notwendig? Sind Akzeptanztests klar und verständlich?
 
 ## Definition of Done
-Wann ist ein Ticket fertig? Muss bei der Auslieferung auch die Datenbank aktualisiert werden? Laufen alle Test automatisch?
+Wann ist ein Ticket fertig? Muss bei der Auslieferung auch die Datenbank aktualisiert werden? Laufen alle Test automatisch? Wo muss der Artefakt ausgeliefert werden?
 
 ## Scrum Master
 Ein Scrum ohne Scrum Master funktioniert nicht - vielleicht ein paar Iterationen, aber sobald sich die Teammitglieder ändern oder weiterentwickeln, oder Projekte komplexer werden, ist der neutrale Status von einem Scrum Master essenziell.
