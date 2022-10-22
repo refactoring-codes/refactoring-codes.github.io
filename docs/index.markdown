@@ -72,7 +72,7 @@ Die Qualitätsziele beschreiben Aspekte der Zusammenarbeit, auf die wir besonder
 
 ### Q1: erfolgreiches Projekt
 - Ein Softwareprojekt sollte iterativ nach Standards entwickelt werden. Das heißt für uns nach Scrum, mit allem, was dazu gehört.
-- Ziele werden explizit definiert, nach dem arc42-Motto [*Handeln stat jammern*](https://www.arc42.de/downloads/Handeln-statt-Jammern.pdf), für manche sogar nach der schwäbischen Prämisse *Schaffe, Net Schwätza*.
+- Ziele werden explizit definiert, nach dem arc42-Motto [*Handeln statt jammern*](https://www.arc42.de/downloads/Handeln-statt-Jammern.pdf), für manche sogar nach der schwäbischen Prämisse *Schaffe, Net Schwätza*.
 - Es wird dokumentiert - Code über Tests, Architektur oder Prozesse nach einheitlichen Struktur.
 
 ### Q3: Jeder ist im Team Willkommen  
@@ -90,3 +90,5 @@ Letztlich wird dadurch ein weiteres Qualitätsziel erreicht, nämlich die *Wartb
 
 
 [^1]: Qualität kann natürlich beliebig definiert sein, wir verstehen darunter aber eine Qualität, die gemessen werden kann, sei es durch statische Codeanalyse, Team Velocity unsw.
+
+[Impressum](/impressum/) 
