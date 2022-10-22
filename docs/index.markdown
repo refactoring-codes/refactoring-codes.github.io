@@ -48,7 +48,7 @@ Welche Ziele verfolgen wir mit unserem Ansatz?
 |--| ----------- | ----------- |
 |Q1| erflogreiches Projekt | sollte in den gegeben Constraints (Zeit, Budget) machbar sein    |
 |Q2| Wartbarkeit des Codes     | Changes müssen vorgesehen werden, Entwicklungsmuster und Prinzipien (z.B. [Open-closed principle](https://en.wikipedia.org/wiki/Open–closed_principle)) sind Standar       |
-|Q3| Jeder is im Team Willkommen      | Das Team kann flexibel neue Mitgleider aufnehmen und verlieren, ohne dass das Projekt groß leidet       |
+|Q3| Jeder ist im Team Willkommen      | Das Team kann flexibel neue Mitgleider aufnehmen und verlieren, ohne dass das Projekt groß leidet       |
 |Q4| Standards werden eingehalten     | Regeln sind einfach, klar und nachvollziehbar kommuniziert und im Team veränderbar       |
 
 ## 1.3 Stakeholder {#stakeholder}
@@ -75,7 +75,7 @@ Die Qualitätsziele beschreiben Aspekte der Zusammenarbeit, auf die wir besonder
 - Ziele werden explizit definiert, nach dem arc42-Motto [*Handeln stat jammern*](https://www.arc42.de/downloads/Handeln-statt-Jammern.pdf), für manche sogar nach der schwäbischen Prämisse *Schaffe, Net Schwätza*.
 - Es wird dokumentiert - Code über Tests, Architektur oder Prozesse nach einheitlichen Struktur.
 
-### Q3: Jeder is im Team Willkommen  
+### Q3: Jeder ist im Team Willkommen  
 - [Code](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) gehört zum Vorstellungsgespräch.
 - Es ist ok, keinen eigenen Code oder geringe Programmierkenntnisse zu haben. In diesem Fall gehört ein Beispiel in [Jack](https://www.nand2tetris.org) dazu, das auf einem selbstgebautem [Hack Computer](https://www.nand2tetris.org/course) läuft.
 - Weiterbildung & Zeit zum Experimentieren sind vorgesehen.
