@@ -15,7 +15,14 @@ Kaiser-Joseph-Str. 254
 79098 Freiburg
 
 ## Kontakt
+### Email
 info (at) refactoring.codes
+
+### Telefon
++49 176 725 94 000
+
+### Web
+[refactoring.codes](http://refactoring.codes) 
 
 ## Vertreten durch
 Jakub Tomisek
